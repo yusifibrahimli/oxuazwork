@@ -1,0 +1,15 @@
+
+.boxNews h3{
+	color: aqua;
+	text-align: center;
+}
+.boxNews{
+	border:1px solid gray;
+}
+.adminH{
+	color: aqua;
+}
+.boxInput input{
+	margin-top: 20px;
+	display: block;
+}
